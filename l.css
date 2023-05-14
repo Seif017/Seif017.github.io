@@ -1,0 +1,40 @@
+
+body{
+    background-color:hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    
+}
+
+.img{
+    border: solid 1px;
+    border-color:hsl(212, 45%, 89%);
+    border-radius: 10px;
+    width: 270px;
+
+}
+
+.qr{
+    border: solid 1px white;
+    box-sizing: border-box;
+    width: 300px;    
+    border-radius: 15px;
+    background: white;
+    
+
+}
+
+.content{
+text-align: center;
+
+}
+
+.content img{
+    margin-top: 50px;
+    
+}
+.content p{
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+}
